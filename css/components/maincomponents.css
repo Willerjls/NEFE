@@ -14,7 +14,7 @@
     justify-content: center;
     max-width: 900px;
     background-color: #fff;
-    box-shadow: 0px 0px 10px 0px #000;
+    box-shadow: 1px 1px 10px 1px #000;
 }
 
 .cardphoto {
@@ -24,10 +24,6 @@
 .cardphoto > .photo {
     height: 100%;
     width: 100%;
-}
-
-.cardcontent {
-
 }
 
 .cardcontent {
