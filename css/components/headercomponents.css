@@ -22,7 +22,7 @@
 
 .title-header {
     font-size: 2.25em;
-    color: #fff;
+    color: #000;
 }
 
 .title-header::before, .title-header::after {
